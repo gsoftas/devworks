@@ -1,0 +1,16 @@
+/* DevWorks.io Custom Styling */
+.page-css {
+  min-height: 100%;
+  background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+}
+
+.site-wrapper {
+  height: 100%;
+  width: 100%;
+  font-family: 'open sans';
+  font-weight: 300;
+  display: grid;
+  grid-gap: 20px 10px;
+  min-height: 100vh;
+  grid-template-rows: 3rem 1fr 5rem;
+}
